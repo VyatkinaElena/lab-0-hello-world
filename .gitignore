@@ -10,3 +10,7 @@ Release/
 *.pdb
 *.ilk
 *.log
+*.o
+*.out
+output.txt
+diary.txt
